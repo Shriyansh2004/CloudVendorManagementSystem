@@ -1,0 +1,10 @@
+#spring:
+#  datasource:
+#    url: dbc:msql://localhost:3306/cloud_vendor?useSSL=False
+#    username: root
+#    password: password
+#  #JPA Settings
+#  jpa:
+#    hibernate:
+#      ddl-auto: create
+##JPA Settings
